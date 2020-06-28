@@ -1,4 +1,5 @@
 # demo-lyvo-app
+<<<<<<< HEAD
 
 ## Project setup
 
@@ -35,3 +36,6 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### NEW CHANGE needs to replace old change.
+=======
+App made under Lyvo bootcamp
+>>>>>>> 3336d1c055dedce7ba80cf4079443a01ec9c04fb
