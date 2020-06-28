@@ -11,5 +11,5 @@ export default Object.freeze({
   TEAM,
   HOME,
   APP,
-  ADMIN
+  ADMIN,
 })

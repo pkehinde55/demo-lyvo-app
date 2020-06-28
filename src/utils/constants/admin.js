@@ -5,18 +5,18 @@ export const ADMIN = Object.freeze({
       plotBackgroundColor: null,
       plotBorderWidth: null,
       plotShadow: false,
-      type: 'pie'
+      type: 'pie',
     },
     credits: {
-      enabled: false
+      enabled: false,
     },
     tooltip: {
-      pointFormat: '{series.name}: <b>{point.y}</b>'
+      pointFormat: '{series.name}: <b>{point.y}</b>',
     },
     accessibility: {
       point: {
-        valueSuffix: '%'
-      }
+        valueSuffix: '%',
+      },
     },
     plotOptions: {
       pie: {
@@ -24,9 +24,9 @@ export const ADMIN = Object.freeze({
         cursor: 'pointer',
         dataLabels: {
           enabled: true,
-          format: '<b>{point.name}</b>: {point.y}'
-        }
-      }
-    }
-  }
+          format: '<b>{point.name}</b>: {point.y}',
+        },
+      },
+    },
+  },
 })
